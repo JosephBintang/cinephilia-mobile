@@ -141,6 +141,6 @@ Penerapan Clean Architecture pada aplikasi Flutter melibatkan pembagian kode men
 4. Menambahkan Fitur Navigasi pada Tombol:
     * Modifikasi widget ShopItem pada menu.dart agar pada onTap, navigasi ke halaman yang sesuai dilakukan, misalnya ShopFormPage.
 
-5 Refactoring File:
+5. Refactoring File:
     * Pindahkan halaman ke folder screens untuk organisasi yang lebih baik.
     * Pisahkan widget ke dalam file terpisah di direktori widgets.
