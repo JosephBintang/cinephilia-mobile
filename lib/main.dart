@@ -1,5 +1,6 @@
+import 'package:cinephilia/screens/menu.dart';
 import 'package:flutter/material.dart';
-import 'package:cinephilia/menu.dart';
+
 
 void main() {
   runApp(const MyApp());
